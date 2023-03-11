@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvMNavDinamic", "WpfMvvMNavDinamic\WpfMvvMNavDinamic.csproj", "{3B217694-127A-4BE9-94EA-F68B48529875}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,17 +23,12 @@ Global
 		{FABCA091-6F21-4001-B2F7-4C1F7BAC9A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABCA091-6F21-4001-B2F7-4C1F7BAC9A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABCA091-6F21-4001-B2F7-4C1F7BAC9A8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B217694-127A-4BE9-94EA-F68B48529875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B217694-127A-4BE9-94EA-F68B48529875}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B217694-127A-4BE9-94EA-F68B48529875}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B217694-127A-4BE9-94EA-F68B48529875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FABCA091-6F21-4001-B2F7-4C1F7BAC9A8D} = {5432CD01-45E5-4BF3-A17E-9F52BA019874}
-		{3B217694-127A-4BE9-94EA-F68B48529875} = {5432CD01-45E5-4BF3-A17E-9F52BA019874}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {774201BA-A6CC-498E-B3D0-7D84A1F23B91}
